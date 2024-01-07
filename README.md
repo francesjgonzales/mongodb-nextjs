@@ -6,6 +6,7 @@ If you want to learn more about MongoDB, visit the following pages:
 
 - [MongoDB Atlas](https://mongodb.com/atlas)
 - [MongoDB Documentation](https://docs.mongodb.com/)
+- [How to Integrate MongoDB Into Your Next.js App](https://www.mongodb.com/developer/languages/javascript/nextjs-with-mongodb/)
 
 ## Deploy your own
 
